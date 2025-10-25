@@ -1,0 +1,12 @@
+com\recruitment\entity\User.class
+com\recruitment\controller\AuthController.class
+com\recruitment\entity\Profile.class
+com\recruitment\repository\ApplicationRepository.class
+com\recruitment\entity\Job.class
+com\recruitment\RecruitmentApplication.class
+com\recruitment\controller\JobController.class
+com\recruitment\entity\UserType.class
+com\recruitment\repository\JobRepository.class
+com\recruitment\repository\UserRepository.class
+com\recruitment\entity\Application.class
+com\recruitment\controller\ApplicantController.class
