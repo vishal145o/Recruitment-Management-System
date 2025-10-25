@@ -24,5 +24,4 @@ Server starts at: http://localhost:8080/api
 - GET  /api/admin/jobs   -> List jobs
 - POST /api/uploadResume -> multipart form field `resume`
 
-Note: This skeleton disables security and uses MD5 for password hashing strictly for demonstration.
-Do not use this as-is in production.
+
